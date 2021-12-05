@@ -1,2 +1,8 @@
 # System-Information
-System Information With Python
+System Information With <div class="color">Python</div>
+
+<style>
+  .color {
+  color : yellow
+  }
+  </style>
